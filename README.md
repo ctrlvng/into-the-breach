@@ -5,6 +5,7 @@ If I asked, you’d probably say credit card breaches are the worst, right? Sinc
 HIPAA breaches are serious too, though the consequences may not be as readily apparent. Like with credit card breaches, one possible consequence is identity theft, but even more concerning is if a breach involves malware designed to harm a system – the consequences could be disruptive and devastating, especially for more vulnerable populations.
 
 Slide deck here: https://docs.google.com/presentation/d/1LQ14x4bs55n4JD-ytRXBLPtoCH17T4NV3vm8CfmM0hw/
+
 Dashboard here: https://public.tableau.com/app/profile/ctrlvng/viz/IntotheHIPAABreach_16705938852440/IntotheHIPAABreach
 
 ### About the Data & Libraries
